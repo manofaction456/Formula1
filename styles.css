@@ -1,0 +1,88 @@
+body {
+    font-family: Arial, sans-serif; 
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff; /* Formula One black background */
+    color: #fff; /* Text color */
+}
+
+
+header {
+    background-color: #ff2800; /* Formula One red */
+    padding: 20px;
+    text-align: center;
+}
+
+
+header a {
+    color: #fff;
+    text-decoration: none;
+}
+
+
+nav ul {
+    background-color: #1c1c1c;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+#product-list {
+    list-style-type: none;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+}
+
+
+.container {
+    text-align: center; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    height: 300px; 
+}
+
+.container img {
+    max-width: 100%; 
+}
+
+.img {
+    background-color: #ff2800;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+    transition: background-color 0.3s ease;
+}
+
+.button:hover {
+    background-color: #ff5200;
+}
+
+/* Style the about and contact sections */
+#about, #contact {
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px;
+}
+
+
+h1, h2, h3, h4 {
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    color: #ff2800;
+}
+
+p {
+    line-height: 1.5;
+    color: #333;
+}

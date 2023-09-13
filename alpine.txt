@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ALPINE</title>
+	<link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>ALPINE</h1>
+    </header>
+	
+        <h2>Learn about alpine</h2>
+        <div class="car">
+            <h3><img src="pie.jpg" alt="img1"></a></h3>
+            <p>If there’s one man who knows how big a rollercoaster ride an F1 driver’s career can be, it’s Pierre Gasly!
+The flying Frenchman was called up to make his 2017 debut in Malaysia in place of Daniil Kvyat and, after proving his mettle, 
+he was named a Toro Rosso driver the following year.  A further 21 races into his fledgling career, Gasly was moved up again – this time 
+to replace Red Bull big gun Daniel Ricciardo.Gasly seemed to have a knack of being in the right place at the right time – a quality that’s equally handy on track. 
+A series of impressive 2018 performances for Toro Rosso – including a brilliant fourth place in Bahrain – showed exciting promise for what he might do with the ‘A’ team in 2019.</p>
+			<h3><img src="est.jpg" alt="img2">Estebon Ocon</a></h3>
+            <p>If there’s one word that dominates Esteban Ocon’s career, it’s ‘sacrifice’.
+Back when he was just a promising karter, Ocon’s parents sold their house, put their jobs on hold, and began a life on the road, living in a caravan and travelling from circuit to circuit to 
+support their son’s burgeoning career.Sacrifice, see – but it worked. 2014 saw Ocon break through in the world of single-seaters, 
+as he beat a certain Max Verstappen to the European F3 title. Backed by Mercedes, he won the GP3 title the following year and was halfway through a season of DTM in 2016 when he was 
+offered the chance to replace Rio Haryanto at the minnow Manor team from the Belgian Grand Prix onwards.</p>
+        </div>
+		</body>
+		</html>
