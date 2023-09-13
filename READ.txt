@@ -1,0 +1,2 @@
+Open cars.html for webpage, each formula 1 team is a hyper link that opens their respective webpage,
+those webpages contain the drivers who drive for the said teams.
